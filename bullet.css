@@ -1,9 +1,22 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", "Arial", "Verdana", "Sans-Serif";
+	color: #626262;
   margin: auto;
   padding-top: 40px;
   position: relative;
   width: 960px;
+}
+
+.header {
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+.tagline {
+	letter-spacing: 0.15em;
+	font-size: 2em;
+	font-style: italic;
+	color: #CA0633;
 }
 
 .bullet { font: 10px sans-serif; }
